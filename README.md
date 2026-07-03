@@ -170,23 +170,28 @@ Premium UI Component Library
 </table>
 
 
-
 # 📊 GitHub Analytics
 
 
 <div align="center">
 
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shashwat2506&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwat2506&theme=tokyonight&hide_border=true"/>
+<img width="49%" 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shashwat2506&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat2506&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" 
+src="https://streak-stats.demolab.com?user=Shashwat2506&theme=tokyonight&hide_border=true"/>
+
+
+<br><br>
+
+
+<img width="60%" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shashwat2506&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 </div>
+
 
 
 
@@ -195,9 +200,13 @@ Premium UI Component Library
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shashwat2506/Shashwat2506/output/github-contribution-grid-snake-dark.svg"/>
+
+<img width="95%" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2506&theme=react-dark&hide_border=true&area=true"/>
+
 
 </div>
+
 
 
 ### ✍️ Random Dev Quote
@@ -205,7 +214,41 @@ Premium UI Component Library
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shashwat2506&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+
+<img src="https://komarev.com/ghpvc/?username=Shashwat2506&style=for-the-badge&color=blueviolet"/>
+
+
+</div>
+
+
+# ⚡ Digital Playground
+
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shashwat2506&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+
+### 💭 "Engineering Ideas Into Intelligent Experiences"
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1000&color=00FFFF&center=true&width=700&lines=AI+%E2%9C%A6+Full+Stack+%E2%9C%A6+Cloud+%E2%9C%A6+Innovation"/>
+</div>
+
+
+
+
 
 
 
