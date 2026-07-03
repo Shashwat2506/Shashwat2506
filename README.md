@@ -224,56 +224,41 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2506
 
 
 
+
+
 # ⚡ Digital Playground
 
 
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shashwat2506&theme=algolia&no-frame=true&no-bg=true&margin-w=20&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shashwat2506&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4"/>
+
+
+<br><br>
+
+
+<img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+<br><br>
+
+
+<h2>
+💭 Engineering Ideas Into Intelligent Experiences
+</h2>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F7FF&center=true&width=850&lines=AI+%E2%9C%A6+Full+Stack+%E2%9C%A6+Cloud+%E2%9C%A6+Innovation;Building+Scalable+Digital+Universes;Turning+Ideas+Into+Production+Systems"/>
+
+
+<br><br>
+
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,python,java,aws,docker,mongodb,mysql,typescript,tailwind,git,github&theme=dark"/>
 
 
 </div>
-
-
-<br>
-
-
-<div align="center">
-
-
-<img width="850" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a1-4a81-b4f4-5caa836d7e1c.gif">
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-
-<h3>💭 Engineering Ideas Into Intelligent Experiences</h3>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=00F7FF&center=true&width=900&lines=AI+%E2%9C%A6+Full+Stack+%E2%9C%A6+Cloud+%E2%9C%A6+Innovation;Creating+Future+Ready+Digital+Products;Learning+Building+Growing+Everyday"/>
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python,aws,docker,mongodb,typescript&theme=dark"/>
-
-
-</div>
-
 
 
 
