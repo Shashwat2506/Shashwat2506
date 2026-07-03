@@ -232,12 +232,18 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2506
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shashwat2506&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4"/>
 
+
+
+<br><br><img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat2506&theme=tokyonight"/>
 
 <br><br>
 
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashwat2506&theme=tokyonight"/>
 
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shashwat2506&theme=tokyonight"/>
+
+<br><br>
 <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
