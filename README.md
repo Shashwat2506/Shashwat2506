@@ -197,6 +197,13 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S
 
 # 🐍 Contribution Universe
 
+<div align="center">
+
+<img width="100%" 
+src="https://raw.githubusercontent.com/Shashwat2506/Shashwat2506/output/github-contribution-grid-snake-dark.svg"/>
+
+
+</div>
 
 <div align="center">
 
